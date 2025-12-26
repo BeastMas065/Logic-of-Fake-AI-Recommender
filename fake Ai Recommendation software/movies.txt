@@ -1,0 +1,25 @@
+Avengers action fast
+Inception action fast
+MadMax action fast
+JohnWick action fast
+DieHard action fast
+Gladiator action slow
+
+Titanic romance slow
+Notebook romance slow
+LaLaLand romance slow
+PridePrejudice romance slow
+BeforeSunrise romance slow
+
+Hangover comedy fast
+Superbad comedy fast
+Deadpool comedy fast
+Jumanji comedy fast
+HomeAlone comedy fast
+
+ForrestGump comedy slow
+TheIntern comedy slow
+LittleMissSunshine comedy slow
+
+Interstellar action slow
+DarkKnight action fast
